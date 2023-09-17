@@ -1,0 +1,5 @@
+frontend > npx create-react-app .
+backend  > npm init
+backend  > npm i nodemon mongoose dotenv bcrypt jsonwebtoken nodemailer cookie-parser
+frontend > npm i react-router-dom react-lottie react-icons country-state-city
+
